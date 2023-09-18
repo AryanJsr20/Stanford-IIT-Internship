@@ -1,5 +1,5 @@
-##Maternal and Child Health Monitoring in LMICs
-###This internship program was organized and hosted by the laboratory of Professor Pascal Geldsetzer from Stanford Medicine.
+<h2>Maternal and Child Health Monitoring in LMICs</h2>
+<h3>This internship program was organized and hosted by the laboratory of Professor Pascal Geldsetzer from Stanford Medicine.</h3>
 
 This research aims to validate the efficacy of advanced machine learning techniques combined with satellite imagery for precise estimation of critical Maternal and Child Health (MCH) indicators across low- and middle-income countries (LMICs). The hypothesis asserts that leveraging publicly available geotagged data can yield insightful village and neighborhood-level MCH indicators, encompassing child undernutrition, anemia prevalence, child and maternal mortality rates, and childhood illness episodes.
 The report presents a meticulously designed experimental framework to achieve this objective. In the context of global health, accurate identification of regions requiring heightened attention and resources holds significant importance for optimizing outcomes. By integrating cutting-edge Machine learning models with ElasticNet, our project harnesses technological advancements and satellite data to achieve unparalleled accuracy in projecting health indicators. Rigorous experimentation and cross-validation enhance the credibility of our findings.
